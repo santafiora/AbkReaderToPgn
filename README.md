@@ -18,8 +18,8 @@ The Logic works Fine ;-)
 Export to Console with with SAN Header is fixed now!
 
 
-Export to File with SAN Header will come after solving the correct export in the Console.Write.
+Export to File with SAN Header will come after solving during the next days when Speeding up the Code and doing some Multithreading ;-)
 
-This Programm wa developed in C# with Visual Studio Community Edition 2019
+This Programm was developed in C# with Visual Studio Community Edition 2019
 
-Cheers M.Baum & R.Malicki
+Cheers M.Baum & R.Malicki Have Fun
